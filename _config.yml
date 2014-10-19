@@ -1,0 +1,12 @@
+# Site settings
+title: Nicole C. Whitehead
+email: ncwhitehead@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Portfolio for the Birmingham, AL developer Nicole Whitehead. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ncwhitehead.github.com/" # the base hostname & protocol for your site
+twitter_username: ncwhitehead
+github_username:  ncwhitehead
+
+# Build settings
+markdown: kramdown
